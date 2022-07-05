@@ -58,7 +58,7 @@ h2 {
 
 /* contact food section  */
 .contact-section {
-  background-image: url(./images/7.png);
+  background-image: url('./images/7.png');
   background-size: 100%;
   background-repeat: no-repeat;
   margin-top: 4%;
